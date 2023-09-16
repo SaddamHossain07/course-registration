@@ -22,8 +22,8 @@ function App() {
     const newTotalPrice = totalPrice + price
 
     // toast functionalities 
-    const creditLimitCheck = () => toast("You have remaining very less credit hour limit!");
-    const duplicateCheck = () => toast("You have already add this course in your cart!");
+    const creditLimitCheck = () => toast("Please check your credit hour limit!");
+    const duplicateCheck = () => toast("You have already added this course in your cart!");
 
     if (!cart.includes(course)) {
       const newCart = [...cart, course]
