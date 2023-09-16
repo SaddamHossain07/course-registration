@@ -12,7 +12,7 @@
         "course_name": "Web Development Bootcamp",
         "credit": 6,
         "price": 599.99,
-        "course_detail": "Comprehensive training in front-end and back-end web development with the latest technologies.",
+        "course_detail": "Comprehensive training in front-end and back-end web development.",
         "course_img": "https://i.ibb.co/g76jCzb/Rectangle-2.png"
     },
     {
@@ -44,7 +44,7 @@
         "course_name": "Data Science for Beginners",
         "credit": 3,
         "price": 349.99,
-        "course_detail": "Introduction to data analysis, visualization, and statistics with amazon web service.",
+        "course_detail": "Introduction to data analysis, visualization, statistics, data structure and algorithm.",
         "course_img": "https://i.ibb.co/W3nQzcd/Rectangle-3.png"
     },
     {
