@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "course_name": "Introduction to Programming",
+        "credit": 3,
+        "price": 299.99,
+        "course_detail": "Learn the fundamentals of programming and coding in various languages.",
+        "course_img": "https://i.ibb.co/hgbV3Sb/Rectangle-2-2.png"
+    },
+    {
+        "id": 2,
+        "course_name": "Web Development Bootcamp",
+        "credit": 6,
+        "price": 599.99,
+        "course_detail": "Comprehensive training in front-end and back-end web development with the latest technologies.",
+        "course_img": "https://i.ibb.co/g76jCzb/Rectangle-2.png"
+    },
+    {
+        "id": 3,
+        "course_name": "Machine Learning Fundamentals",
+        "credit": 4,
+        "price": 499.99,
+        "course_detail": "Explore the basics of machine learning algorithms and applications.",
+        "course_img": "https://i.ibb.co/8X1pp7Q/Rectangle-2-5.png"
+    },
+    {
+        "id": 4,
+        "course_name": "Cybersecurity Essentials",
+        "credit": 5,
+        "price": 399.99,
+        "course_detail": "Gain essential skills to protect digital assets and networks from threats.",
+        "course_img": "https://i.ibb.co/nk44KRN/Rectangle-2-6.png"
+    },
+    {
+        "id": 5,
+        "course_name": "Mobile App Development",
+        "credit": 4,
+        "price": 449.99,
+        "course_detail": "Create mobile applications for iOS and Android platforms using JAVA and React Native.",
+        "course_img": "https://i.ibb.co/kc2LrRp/Rectangle-2-4.png"
+    },
+    {
+        "id": 6,
+        "course_name": "Data Science for Beginners",
+        "credit": 3,
+        "price": 349.99,
+        "course_detail": "Introduction to data analysis, visualization, and statistics with amazon web service.",
+        "course_img": "https://i.ibb.co/W3nQzcd/Rectangle-3.png"
+    },
+    {
+        "id": 7,
+        "course_name": "Cloud Computing Certification",
+        "credit": 5,
+        "price": 599.99,
+        "course_detail": "Master cloud services and technologies like AWS and Azure.",
+        "course_img": "https://i.ibb.co/Zcbwtn7/Rectangle-3-1.png"
+    },
+    {
+        "id": 8,
+        "course_name": "Artificial Intelligence Foundations",
+        "credit": 4,
+        "price": 499.99,
+        "course_detail": "Get started with AI concepts and applications in various domains.",
+        "course_img": "https://i.ibb.co/kXhsnGW/Rectangle-2-1.png"
+    },
+    {
+        "id": 9,
+        "course_name": "Game Development Workshop",
+        "credit": 3,
+        "price": 349.99,
+        "course_detail": "Create your own video games with Unity and Unreal Engine.",
+        "course_img": "https://i.ibb.co/Jstyhss/Rectangle-2-3.png"
+    }
+]
